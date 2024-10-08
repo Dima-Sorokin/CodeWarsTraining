@@ -1,0 +1,2 @@
+# CodeWarsTraining
+Small Training Projects
